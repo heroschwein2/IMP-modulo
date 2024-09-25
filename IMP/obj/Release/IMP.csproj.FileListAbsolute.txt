@@ -1,0 +1,11 @@
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP\obj\Release\IMP.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP\obj\Release\IMP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP\obj\Release\IMP.exe
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP\obj\Release\IMP.pdb
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP\bin\Release\IMP.exe.config
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP\bin\Release\IMP.exe.manifest
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP\bin\Release\IMP.application
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP\bin\Release\IMP.exe
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP\bin\Release\IMP.pdb
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP\obj\Release\IMP.exe.manifest
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP\obj\Release\IMP.application

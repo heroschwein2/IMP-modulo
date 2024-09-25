@@ -12,10 +12,11 @@ namespace IMP
         public static int a;
         public static int m;
         public static double ResultA;
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter a:");
-            a = Convert.ToInt32(Console.ReadLine()); //Input der ersten Zahl
+            int first = Convert.ToInt32(Console.ReadLine()); //Input der ersten Zahl
+            a = first;
             Console.WriteLine("Enter b:");
             int b = Convert.ToInt32(Console.ReadLine()); //Input der zweiten Zahl
             Console.WriteLine("Enter m:");
@@ -24,16 +25,15 @@ namespace IMP
             a = b;
             double resultA = ResultA;
             RestA();
-            
-            if(ResultA==resultA)
+            if(resultA==ResultA)
             {
-                Console.WriteLine(a + " und " + b + " sind kongruent modulo " + m);
+                Console.WriteLine(first+" und "+b+" sind kongruent modulo "+m);
             }
             else
             {
-                Console.WriteLine(a + " und " + b + " sind NICHT kongruent modulo " + m);
+                Console.WriteLine(first+" und "+b+" sind NICHT kongruent modulo "+m);
             }
-            Thread.Sleep(999999999);
+            Thread.Sleep(99999);
         }
 
         public static void RestA()

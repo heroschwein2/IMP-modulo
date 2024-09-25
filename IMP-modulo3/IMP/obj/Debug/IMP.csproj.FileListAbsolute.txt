@@ -20,3 +20,14 @@ C:\Users\PC\Source\Repos\IMP-modulo3\IMP\bin\Debug\IMP.exe
 C:\Users\PC\Source\Repos\IMP-modulo3\IMP\bin\Debug\IMP.pdb
 C:\Users\PC\Source\Repos\IMP-modulo3\IMP\obj\Debug\IMP.exe.manifest
 C:\Users\PC\Source\Repos\IMP-modulo3\IMP\obj\Debug\IMP.application
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP-modulo3\IMP\obj\Debug\IMP.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP-modulo3\IMP\obj\Debug\IMP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP-modulo3\IMP\obj\Debug\IMP.exe
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP-modulo3\IMP\obj\Debug\IMP.pdb
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP-modulo3\IMP\bin\Debug\IMP.exe.config
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP-modulo3\IMP\bin\Debug\IMP.exe.manifest
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP-modulo3\IMP\bin\Debug\IMP.application
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP-modulo3\IMP\bin\Debug\IMP.exe
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP-modulo3\IMP\bin\Debug\IMP.pdb
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP-modulo3\IMP\obj\Debug\IMP.exe.manifest
+C:\Users\PC\Source\Repos\IMP-modulo3\IMP-modulo3\IMP\obj\Debug\IMP.application

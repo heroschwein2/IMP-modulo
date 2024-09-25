@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "Task-CodeFile1",
+      "appliesTo": "IMP-modulo3/IMP/CodeFile1.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "Task-IMP",
+      "appliesTo": "IMP-modulo3/IMP/IMP.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
