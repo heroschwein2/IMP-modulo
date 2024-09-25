@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IMP.exe" size="6080">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IMP.exe" size="5568">
       <assemblyIdentity name="IMP" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0BaHzazXDI+nnGiRH9e+fL/coZArfIZl/PyIZGB6rCw=</dsig:DigestValue>
+        <dsig:DigestValue>JcNllPdttw5NThCZmVSfeW9ysPc4kujeltdqjZ4EC7Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

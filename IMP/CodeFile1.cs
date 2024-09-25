@@ -10,21 +10,22 @@ namespace IMP
     class kongruent
     {
         public static int a;
-        public static int b;
         public static int m;
-        public static Double ResultA;
-        public static double ResultB;
+        public static double ResultA;
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a:");
             a = Convert.ToInt32(Console.ReadLine()); //Input der ersten Zahl
             Console.WriteLine("Enter b:");
-            b = Convert.ToInt32(Console.ReadLine()); //Input der zweiten Zahl
+            int b = Convert.ToInt32(Console.ReadLine()); //Input der zweiten Zahl
             Console.WriteLine("Enter m:");
             m = Convert.ToInt32(Console.ReadLine()); //Input der zweiten Zahl
             RestA();
-            RestB();
-            if(ResultA==ResultB)
+            a = b;
+            double resultA = ResultA;
+            RestA();
+            
+            if(ResultA==resultA)
             {
                 Console.WriteLine(a + " und " + b + " sind kongruent modulo " + m);
             }
@@ -37,7 +38,7 @@ namespace IMP
 
         public static void RestA()
         {
-            
+            //Findet den Rest heraus
             double DivisionResult;
             double DecimalPlace;
             double FullNumber;
@@ -45,18 +46,6 @@ namespace IMP
             FullNumber = Math.Floor(DivisionResult); //Abrunden für ganze Zahl
             DecimalPlace = DivisionResult - FullNumber; //Herausfinden der Nachkommastellen
             ResultA = DecimalPlace * m; //Den Rest bestimmen
-        }
-
-        public static void RestB()
-        {
-            
-            double DivisionResult;
-            double DecimalPlace;
-            double FullNumber;
-            DivisionResult = (double)b / m; //Division der Zahlen
-            FullNumber = Math.Floor(DivisionResult); //Abrunden für ganze Zahl
-            DecimalPlace = DivisionResult - FullNumber; //Herausfinden der Nachkommastellen
-            ResultB = DecimalPlace * m; //Den Rest bestimmen
         }
     }
 }
